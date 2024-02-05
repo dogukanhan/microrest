@@ -1,0 +1,1 @@
+C:\Users\dogukan\Desktop\project_nanorest\graalvm-jdk-21_windows-x64_bin\graalvm-jdk-21.0.2+13.1\bin\native-image
